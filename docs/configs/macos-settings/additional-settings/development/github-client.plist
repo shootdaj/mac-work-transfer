@@ -1,0 +1,10 @@
+{
+    AppleTextDirection = 1;
+    NSForceRightToLeftWritingDirection = 0;
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavPanelExpandedSizeForSaveMode = "{800, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    NSOSPLastRootDirectory = {length = 780, bytes = 0x626f6f6b 0c030000 00000410 30000000 ... ac010000 00000000 };
+    NSTreatUnknownArgumentsAsOpen = NO;
+    "NSWindow Frame NSNavPanelAutosaveName" = "464 390 800 448 0 0 1728 1085 ";
+}

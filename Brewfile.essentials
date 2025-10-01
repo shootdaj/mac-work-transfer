@@ -1,0 +1,43 @@
+# Essential Mac Work Transfer Packages
+# Curated list for new machine setup
+
+## Command Line Tools
+brew "fd"
+brew "ffmpeg"
+brew "gh"
+brew "git"
+brew "node"
+brew "qt"
+
+## Applications
+cask "bettertouchtool"
+cask "cursor"
+cask "daisydisk"
+cask "gitkraken"
+cask "karabiner-elements"
+cask "itsycal"
+cask "vlc@nightly"
+cask "gpt4all"
+cask "lm-studio"
+cask "superwhisper"
+cask "brave-browser"
+cask "firefox"
+cask "dotnet-sdk"
+cask "far2l"
+cask "notepadnext"
+
+## Manual Install Required (not in Homebrew)
+# AltTab.app - window switcher
+# Amphetamine.app - keep Mac awake  
+# Bartender 5.app - menu bar organization
+# Beyond Compare.app - file comparison
+# ChatGPT.app - OpenAI app
+# Claude.app - Anthropic app
+# Copilot.app - GitHub Copilot
+# CotEditor.app - text editor
+# Raycast.app - productivity launcher
+# Warp.app - terminal
+
+## Cursor Extensions (handled via config restore)
+# Extensions are restored automatically through Cursor config backup
+# No separate installation needed - already in backed up configs

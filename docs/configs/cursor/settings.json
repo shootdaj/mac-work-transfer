@@ -1,0 +1,27 @@
+{
+    "window.commandCenter": 1,
+    "workbench.colorTheme": "Default Dark Modern",
+    "cursor.composer.shouldAllowCustomModes": true,
+    "cursor.composer.backspaceRemoveContext": false,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "JetBrains Mono Variable, monospace",
+    "editor.fontWeight": "100",
+    "amp.url": "https://ampcode.com/",
+    "amp.mcpServers": {
+        "playwright": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@playwright/mcp@latest",
+                "--headless",
+                "--isolated"
+            ]
+        }
+    },
+    "amp.tab.enabled": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "markdown-preview-github-styles.colorTheme": "Single theme: Dark"   
+}

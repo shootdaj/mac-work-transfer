@@ -1,0 +1,200 @@
+{
+    AddedStandardMacOSPresetP2 = 1;
+    AdjustedPrefsForB5 = 1;
+    AdjustedPrefsForB5P2 = 1;
+    BartenderHideMovingItemsNotification = 1;
+    "FRFeedbackReporter.lastCrashCheckDate" = "2025-09-05 08:38:02 +0000";
+    HaveConvertedImageSFUsToTriggers = 1;
+    HaveConvertedSFUsToTriggers = 1;
+    HaveCreatedDefaultTriggers = 1;
+    HideItemsWhenShowingOthers = 0;
+    "MenuBarColoring-SpaceSettings" = {length = 854301, bytes = 0x7b223944 36333436 39352d33 4639422d ... 31423233 30227d7d };
+    MouseExitDelay = "0.4";
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
+        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
+    );
+    "NSStatusItem Preferred Position EItem" = 16415;
+    "NSStatusItem Preferred Position HISItem" = 658;
+    "NSStatusItem Preferred Position RHSItem" = 6383;
+    "NSStatusItem Preferred Position THSItem" = 11399;
+    "NSStatusItem Preferred Position statusItem" = 574;
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame SU5AlertMessages" = "1745448381.642046";
+    "NSWindow Frame SUUpdateAlert" = "438 405 620 398 0 0 1496 939 ";
+    ProfileSettings =     {
+        activeProfile =         {
+            AlwaysHide =             (
+            );
+            BartenderBarStyling = {length = 4, bytes = 0x6e756c6c};
+            GapItemLabels =             {
+            };
+            GapItemWidths =             {
+            };
+            Hide =             (
+                "com.electron.ollama-Item-0",
+                "com.apple.ScriptMonitor-Item-0",
+                "eu.exelban.Stats-Battery_battery",
+                "eu.exelban.Stats-Network_speed",
+                "eu.exelban.Stats-Disk_mini",
+                "com.objective-see.lulu.app-Item-0",
+                "com.stclairsoft.DefaultFolderX5-Item-0",
+                "eu.exelban.Stats-CombinedModules",
+                "eu.exelban.Stats-Disk",
+                "eu.exelban.Stats-Network",
+                "eu.exelban.Stats-Battery",
+                "special.AllOtherItems",
+                "com.apple.Spotlight-Item-0",
+                "com.apple.controlcenter-MusicRecognition",
+                "com.teamviewer.TeamViewer-Item-0",
+                "notion.id-Item-0",
+                "org.pqrs.Karabiner-Menu-Item-0",
+                "com.superduper.superwhisper-Item-0",
+                "com.cocoatech.PathFinder-Item-0",
+                "com.paragon-software.ntfs.FSMenuApp-Item-0",
+                "com.raycast.macos-raycastIcon",
+                "com.lwouis.alt-tab-macos-Item-0",
+                "com.knollsoft.Rectangle-Item-0",
+                "ai.elementlabs.lmstudio-Item-0"
+            );
+            Show =             (
+                "com.apple.controlcenter-Battery",
+                "com.apple.controlcenter-Bluetooth",
+                "com.apple.controlcenter-NowPlaying",
+                "com.apple.controlcenter-WiFi",
+                "com.privateinternetaccess.vpn-Item-0",
+                "com.hegenberg.BetterTouchTool-BetterTouchTool",
+                "com.mowglii.ItsycalApp-ItsycalStatusItem",
+                "eu.exelban.Stats-RAM_mini",
+                "eu.exelban.Stats-CPU_mini",
+                "eu.exelban.Stats-CPU",
+                "eu.exelban.Stats-RAM",
+                "com.surteesstudios.Bartender-statusItem"
+            );
+            description = "";
+            icon = {length = 31106, bytes = 0x4d4d002a 000034a0 00000000 00000000 ... fe4bfedc ff6dffff };
+            iconIsTemplate = 1;
+            isSpecial = 1;
+            leaveAlwaysHiddenItems = 0;
+            name = Profile;
+            subBarStyling = {length = 2, bytes = 0x7b7d};
+            subItemIcons = {length = 2, bytes = 0x7b7d};
+            subItemItems =             {
+            };
+            subItemTitles =             {
+            };
+        };
+    };
+    ResetPermissionCountKey = 1;
+    SUAutomaticallyUpdate = 0;
+    SUEnableAutomaticChecks = 1;
+    SUHasLaunchedBefore = 1;
+    SULastCheckTime = "2025-09-16 02:58:42 +0000";
+    SUSendProfileInfo = 0;
+    SUUpdateGroupIdentifier = 2609519907;
+    ShowAllItemsWhenDragging = 1;
+    TerminationReason = "Bartender Quitting due to system restart or logout";
+    TerminationReasons =     (
+        "2025-06-14 03:35:44 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-06-14 03:35:44 +0000 Bartender Quitting due to system restart or logout",
+        "2025-06-14 04:36:53 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-06-14 04:36:53 +0000 Bartender Quitting due to system restart or logout",
+        "2025-06-20 19:35:35 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-06-20 19:35:35 +0000 Bartender Quitting due to system restart or logout",
+        "2025-06-30 22:30:53 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-06-30 22:30:53 +0000 Bartender Quitting due to system restart or logout",
+        "2025-07-02 21:12:24 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-07-02 21:12:24 +0000 Bartender Quitting due to system restart or logout",
+        "2025-07-02 21:12:24 +0000 Bartender Quitting due to system restart or logout (Not set to Start at Login)",
+        "2025-07-08 03:22:55 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-07-08 03:22:55 +0000 Bartender Quitting due to system restart or logout",
+        "2025-07-08 22:48:30 +0000 Bartender Quitting due to system restart or logout (Not set to Start at Login)",
+        "2025-07-08 23:56:49 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-07-08 23:56:49 +0000 Bartender Quitting due to system restart or logout",
+        "2025-07-09 06:32:45 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-07-09 06:32:45 +0000 Bartender Quitting due to system restart or logout",
+        "2025-07-15 07:19:10 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-07-15 07:19:10 +0000 Bartender Quitting due to system restart or logout",
+        "2025-07-31 02:43:58 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-07-31 02:43:58 +0000 Bartender Quitting due to system restart or logout",
+        "2025-07-31 07:32:08 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-07-31 07:32:08 +0000 Bartender Quitting due to system restart or logout",
+        "2025-08-16 12:56:01 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-08-16 12:56:01 +0000 Bartender Quitting due to system restart or logout",
+        "2025-08-16 20:56:46 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-08-16 20:56:46 +0000 Bartender Quitting due to system restart or logout",
+        "2025-08-30 07:53:09 +0000 Bartender Quitting due to system restart or logout",
+        "2025-08-30 08:01:52 +0000 Bartender Quitting due to system restart or logout (POWER OFF)",
+        "2025-08-30 08:01:52 +0000 Bartender Quitting due to system restart or logout"
+    );
+    TestingIdentifierKey = 13;
+    TriggerSettings =     {
+        Battery1 =         {
+            description = "";
+            icon =             {
+                SFSymbolName = "battery.50";
+                isTemplate = 1;
+            };
+            isActive = 0;
+            isSpecial = 0;
+            menuBarItemsToActivate =             {
+                "com.apple.controlcenter-Battery" = Battery;
+            };
+            name = "Show Battery when battery condition met";
+            triggerSpecificDict =             {
+                "Battery-When" = OnBatteryPower;
+                "Battery-percentage" = 50;
+            };
+            type =             (
+                Battery
+            );
+        };
+        TimeMachine1 =         {
+            description = "";
+            icon =             {
+                SFSymbolName = "clock.arrow.circlepath";
+                isTemplate = 1;
+            };
+            isActive = 0;
+            isSpecial = 0;
+            menuBarItemsToActivate =             {
+                "com.apple.systemuiserver-TimeMachine.TMMenuExtraHost" = SystemUIServer;
+            };
+            name = "Show Time Machine when time machine is backing up.";
+            triggerSpecificDict =             {
+                Script = "tmutil status | awk -F'=' '/Running/ {print $2*1}'";
+            };
+            type =             (
+                Script
+            );
+        };
+        WiFi1 =         {
+            description = "";
+            icon =             {
+                SFSymbolName = "wifi.slash";
+                isTemplate = 1;
+            };
+            isActive = 0;
+            isSpecial = 0;
+            menuBarItemsToActivate =             {
+                "com.apple.controlcenter-WiFi" = "Wi-Fi";
+            };
+            name = "Show Wi-Fi when Wi-Fi condition met";
+            triggerSpecificDict =             {
+                ShowOn = AllDisconnected;
+            };
+            type =             (
+                WiFi
+            );
+        };
+    };
+    UpdateWelcomeMessageShowAgainB5 = 1;
+    UseBartenderBar = 1;
+    bartenderBarDoesntAutohide = 1;
+    isNewUser = 1;
+    license5 = "GAWAE-FD6S9-SKF2Q-PTAC5-SGATX-NY23P-JTDPV-KL7AC-CQ34Z-VQZ3A-XT5R9-AGRZD-ZNRSB-HPZBF-K66U";
+    license5HoldersName = "Anshul Vishwakarma";
+    trial5Start = "2025-04-23 22:46:21 +0000";
+}

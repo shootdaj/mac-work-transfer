@@ -1,0 +1,94 @@
+{
+    NSNavPanelExpandedSizeForSaveMode = "{800, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    NSOSPLastRootDirectory = {length = 748, bytes = 0x626f6f6b ec020000 00000410 30000000 ... 8c010000 00000000 };
+    "NSStatusItem Preferred Position raycastIcon" = 6233;
+    "NSWindow Frame NSNavPanelAutosaveName" = "348 373 800 448 0 0 1496 939 ";
+    "NSWindow Frame raycast-notes-window" = "1060 100 396 767 0 0 1496 933 ";
+    aiDynamicPlaceholdersMigrationDate = "2025-04-12 14:41:46 +0000";
+    "amplitudePulseAnalyticsTracker_nextHeartbeatDate" = "2025-09-16 17:00:00 +0000";
+    "calculator_currenciesRefresh" = {length = 37, bytes = 0x7b227375 63636565 64656422 3a7b225f ... 35383733 33367d7d };
+    "command-extension_brew.search__9349c6b9-c442-4895-98e3-b3a926e74ed7-searchBarAccessory_default_dropdown_id_previousValue" = all;
+    "commandScheduler_commandRuns" =     {
+    };
+    commandsPreferencesExpandedItemIds =     (
+        "builtin_package_clipboardHistory"
+    );
+    "create-script-command-author" = "";
+    "create-script-command-authorURL" = "";
+    "database_lastValidAppVersion" = "1.102.6";
+    "database_lastValidOSVersion" = "15.4.1";
+    didMigrationForClipboardHistoryFavicons = 1;
+    "fallbackSearches_didMigrateScriptCommands" = 1;
+    faviconProvider = legacy;
+    "fileSearch_fileSearchScope" = kMDQueryScopeComputer;
+    "floatingNotes_didCreateOnboardingNote" = 1;
+    "floatingNotes_didMigrateFloatingNotesHotkeysAndAliases" = 1;
+    "floatingNotes_didMigrateFloatingNotesRecords" = 1;
+    "floatingNotes_didShowOnboardingNote" = 1;
+    "floatingNotes_lastSelectedDocumentId" = "CBD77F1F-F109-4844-8017-91210B76C6F2";
+    "floatingNotes_raycastNotesFormatBarVisible" = 0;
+    "floatingNotes_raycastNotesNavigateBackStack" =     (
+    );
+    "floatingNotes_raycastNotesNavigateForwardStack" =     (
+    );
+    hasQueuedStatusBarHint = 0;
+    hasShownStatusBarHintAfterOnboarding = 1;
+    "ios_showAnnouncement" = 1;
+    mainWindowPositionCache =     {
+        "1(0.0, 0.0, 1312.0, 848.0)" = "{281, 676}";
+        "1(0.0, 0.0, 1496.0, 967.0)" = "{373, 834}";
+        "1(0.0, 0.0, 1728.0, 1117.0)" = "{489, 943}";
+        "2(-1080.0, 0.0, 1080.0, 1920.0)" = "{-915, 1530}";
+        "3(135.0, 1117.0, 1080.0, 1920.0)" = "{300, 2647}";
+        "3(135.0, 1117.0, 1920.0, 1080.0)" = "{720, 2033}";
+    };
+    "mainWindow_isMonitoringGlobalHotkeys" = 1;
+    onboardingCompleted = 1;
+    "onboarding_completedTaskIdentifiers" =     (
+        installFirstExtension,
+        windowManagement,
+        floatingNotes
+    );
+    "onboarding_raycastShortcuts" =     (
+        Esc
+    );
+    "onboarding_setupHotkey" = 1;
+    "onboarding_showTasksProgress" = 1;
+    "permissions.folders.read:/Users/anshul/Desktop" = 1;
+    "permissions.folders.read:/Users/anshul/Documents" = 1;
+    "permissions.folders.read:/Users/anshul/Downloads" = 1;
+    "permissions.folders.read:cloudStorage" = 1;
+    "permissions.folders.read:removableVolumes" = 1;
+    "raycast-preferences-restorableData" = {length = 78, bytes = 0x7b227479 70654e61 6d65223a 22457874 ... 2e343935 3439397d };
+    "raycast-updates-lastAppUpdateCheckDate" = "1758029753.525014";
+    "raycast-updates-lastTargetCommitishInstalled" = a238e2447c972b74d69da35f57449b9f940ca526;
+    "raycast-updates-whatsNewItemDisplayDate" = "1756349352.141316";
+    "raycastAI_deviceInfo" = {length = 33, bytes = 0x7b226372 65646974 73223a35 302c2274 ... 69747322 3a35307d };
+    "raycastAI_modelInfo" = {length = 35172, bytes = 0x7b226465 6661756c 745f6d6f 64656c73 ... 22784149 227d5d7d };
+    "raycastAI_modelRouterModelInfo" = {length = 2, bytes = 0x7b7d};
+    "raycastAI_ollamaModelsList" = {length = 807, bytes = 0x5b7b2270 726f7669 6465725f 6e616d65 ... 75626c69 63227d5d };
+    "raycastAI_remoteExtensions" = {length = 3785, bytes = 0x5b7b2274 6f6f6c73 223a5b7b 22646973 ... 65646975 6d227d5d };
+    raycastAnonymousId = "4D644A6C-B2B6-4A9A-BDBE-98119B80FB83";
+    raycastFirstKnownAppVersion = {length = 8, bytes = 0x22312e39342e3322};
+    raycastGlobalHotkey = "Control-49";
+    raycastInstallationDate = "2025-04-05 01:08:04 +0000";
+    raycastPreferredWindowMode = default;
+    raycastShouldFollowSystemAppearance = 1;
+    "script-command-mode" = Compact;
+    "script-command-template" = Bash;
+    showGettingStartedLink = 1;
+    "store_everInstalled" =     (
+        "0e43920f-bbf6-4582-bc3f-5f63092c915f",
+        "320f40ef-a633-415a-ab0e-1e99515478f7",
+        "9349c6b9-c442-4895-98e3-b3a926e74ed7",
+        "969cd95f-e950-4918-bf4d-63751eb34e9e"
+    );
+    "store_migratedHackerNews" = 1;
+    "store_migratedNative" = 1;
+    "store_migratedReminders" = 1;
+    "store_termsAccepted" = 1;
+    "subscriptions_active" = 0;
+    "subscriptions_needsProTrialEnrolment" = 1;
+    useHyperKeyIcon = 0;
+}

@@ -1,0 +1,1723 @@
+{
+    ComputerViewSettings =     {
+        CustomViewStyle = Nlsv;
+        CustomViewStyleVersion = 1;
+        ExtendedListViewSettingsV2 =         {
+            axTextSize = 16;
+            calculateAllSizes = 1;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 272;
+                },
+                                {
+                    ascending = 0;
+                    identifier = ubiquity;
+                    visible = 0;
+                    width = 35;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateAdded;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = invitationStatus;
+                    visible = 0;
+                    width = 210;
+                }
+            );
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = dateModified;
+            textSize = 16;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            axTextSize = 16;
+            calculateAllSizes = 1;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 272;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = dateModified;
+            textSize = 16;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 0;
+            ShowToolbar = 1;
+            WindowBounds = "{{0, 0}, {1728, 1085}}";
+        };
+    };
+    CopyProgressWindowLocation = "{473, 251}";
+    DataSeparatedDisplayNameCache = "";
+    DeleteFiles = 0;
+    DesktopViewSettings =     {
+        IconViewSettings =         {
+            arrangeBy = grid;
+            axTextSize = 13;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 54;
+            iconSize = 72;
+            labelOnBottom = 1;
+            showIconPreview = 1;
+            showItemInfo = 0;
+            textSize = 13;
+            viewOptionsVersion = 1;
+        };
+    };
+    DownloadsFolderListViewSettingsVersion = 1;
+    EmptyTrashProgressWindowLocation = "{456, 214}";
+    "FK_AppCentricShowSidebar" = 1;
+    "FK_ArrangeBy" = Name;
+    "FK_DefaultIconViewSettings" =     {
+        arrangeBy = name;
+        backgroundColorBlue = 1;
+        backgroundColorGreen = 1;
+        backgroundColorRed = 1;
+        backgroundType = 0;
+        gridOffsetX = 0;
+        gridOffsetY = 0;
+        gridSpacing = 54;
+        iconSize = 64;
+        labelOnBottom = 1;
+        showIconPreview = 1;
+        showItemInfo = 1;
+        textSize = 12;
+        viewOptionsVersion = 1;
+    };
+    "FK_DefaultListViewSettingsV2" =     {
+        calculateAllSizes = 0;
+        columns =         (
+                        {
+                ascending = 1;
+                identifier = name;
+                visible = 1;
+                width = 307;
+            },
+                        {
+                ascending = 0;
+                identifier = ubiquity;
+                visible = 0;
+                width = 35;
+            },
+                        {
+                ascending = 0;
+                identifier = dateModified;
+                visible = 1;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = dateCreated;
+                visible = 0;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = size;
+                visible = 1;
+                width = 97;
+            },
+                        {
+                ascending = 1;
+                identifier = kind;
+                visible = 1;
+                width = 115;
+            },
+                        {
+                ascending = 1;
+                identifier = label;
+                visible = 0;
+                width = 100;
+            },
+                        {
+                ascending = 1;
+                identifier = version;
+                visible = 0;
+                width = 75;
+            },
+                        {
+                ascending = 1;
+                identifier = comments;
+                visible = 0;
+                width = 300;
+            },
+                        {
+                ascending = 0;
+                identifier = dateLastOpened;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = shareOwner;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = shareLastEditor;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = dateAdded;
+                visible = 1;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = invitationStatus;
+                visible = 0;
+                width = 210;
+            }
+        );
+        iconSize = 16;
+        showIconPreview = 1;
+        sortColumn = dateModified;
+        textSize = 13;
+        useRelativeDates = 1;
+        viewOptionsVersion = 1;
+    };
+    "FK_SearchIconViewSettings" =     {
+        arrangeBy = dateModified;
+        backgroundColorBlue = 1;
+        backgroundColorGreen = 1;
+        backgroundColorRed = 1;
+        backgroundType = 0;
+        gridOffsetX = 0;
+        gridOffsetY = 0;
+        gridSpacing = 54;
+        iconSize = 64;
+        labelOnBottom = 1;
+        showIconPreview = 1;
+        showItemInfo = 0;
+        textSize = 12;
+        viewOptionsVersion = 1;
+    };
+    "FK_SearchListViewSettingsV2" =     {
+        calculateAllSizes = 0;
+        columns =         (
+                        {
+                ascending = 1;
+                identifier = name;
+                visible = 1;
+                width = 549;
+            },
+                        {
+                ascending = 0;
+                identifier = ubiquity;
+                visible = 0;
+                width = 35;
+            },
+                        {
+                ascending = 0;
+                identifier = dateModified;
+                visible = 1;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = dateCreated;
+                visible = 0;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = size;
+                visible = 1;
+                width = 97;
+            },
+                        {
+                ascending = 1;
+                identifier = kind;
+                visible = 1;
+                width = 115;
+            },
+                        {
+                ascending = 1;
+                identifier = label;
+                visible = 0;
+                width = 100;
+            },
+                        {
+                ascending = 1;
+                identifier = version;
+                visible = 0;
+                width = 75;
+            },
+                        {
+                ascending = 1;
+                identifier = comments;
+                visible = 0;
+                width = 300;
+            },
+                        {
+                ascending = 0;
+                identifier = dateLastOpened;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = shareOwner;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = shareLastEditor;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = dateAdded;
+                visible = 0;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = invitationStatus;
+                visible = 0;
+                width = 210;
+            }
+        );
+        iconSize = 16;
+        showIconPreview = 1;
+        sortColumn = dateModified;
+        textSize = 13;
+        useRelativeDates = 1;
+        viewOptionsVersion = 1;
+    };
+    "FK_SidebarWidth" = 128;
+    "FK_StandardViewOptions2" =     {
+        ColumnViewOptions =         {
+            ArrangeBy = dnam;
+            ColumnShowFolderArrow = 1;
+            ColumnShowIcons = 1;
+            ColumnWidth = 245;
+            FontSize = 13;
+            PreviewDisclosureState = 1;
+            SharedArrangeBy = kipl;
+            ShowIconThumbnails = 1;
+            ShowPreview = 1;
+        };
+    };
+    "FK_StandardViewSettings" =     {
+        ExtendedListViewSettingsV2 =         {
+            calculateAllSizes = 0;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 200;
+                }
+            );
+            iconSize = 16;
+            showIconPreview = 1;
+            sortColumn = name;
+            textSize = 13;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        IconViewSettings =         {
+            arrangeBy = none;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 54;
+            iconSize = 64;
+            labelOnBottom = 1;
+            showIconPreview = 1;
+            showItemInfo = 0;
+            textSize = 12;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            calculateAllSizes = 0;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 300;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            showIconPreview = 1;
+            sortColumn = name;
+            textSize = 13;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        SettingsType = "FK_StandardViewSettings";
+    };
+    "FK_iCloudListViewSettingsV2" =     {
+        calculateAllSizes = 0;
+        columns =         (
+                        {
+                ascending = 1;
+                identifier = name;
+                visible = 1;
+                width = 268;
+            },
+                        {
+                ascending = 0;
+                identifier = ubiquity;
+                visible = 0;
+                width = 35;
+            },
+                        {
+                ascending = 0;
+                identifier = dateModified;
+                visible = 1;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = dateCreated;
+                visible = 0;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = size;
+                visible = 1;
+                width = 97;
+            },
+                        {
+                ascending = 1;
+                identifier = kind;
+                visible = 0;
+                width = 115;
+            },
+                        {
+                ascending = 1;
+                identifier = label;
+                visible = 0;
+                width = 100;
+            },
+                        {
+                ascending = 1;
+                identifier = version;
+                visible = 0;
+                width = 75;
+            },
+                        {
+                ascending = 1;
+                identifier = comments;
+                visible = 0;
+                width = 300;
+            },
+                        {
+                ascending = 0;
+                identifier = dateLastOpened;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = shareOwner;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = shareLastEditor;
+                visible = 0;
+                width = 200;
+            },
+                        {
+                ascending = 0;
+                identifier = dateAdded;
+                visible = 0;
+                width = 181;
+            },
+                        {
+                ascending = 0;
+                identifier = invitationStatus;
+                visible = 0;
+                width = 210;
+            }
+        );
+        iconSize = 16;
+        showIconPreview = 1;
+        sortColumn = dateModified;
+        textSize = 13;
+        useRelativeDates = 1;
+        viewOptionsVersion = 1;
+    };
+    FXArrangeGroupViewBy = Name;
+    FXDefaultSearchScope = SCcf;
+    FXDesktopTouchBarUpgradedToTenTwelveOne = 1;
+    FXDesktopVolumePositions =     {
+        "5KPlayer_0x1.0c967088p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 192;
+        };
+        "Bartender 5 1_0x1.6db441f0eaddp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 316;
+        };
+        "Bartender 5_0x1.6db441f0eaddp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 192;
+        };
+        "Elmedia Player_0x1.12478e1p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = "-160";
+        };
+        "Fileside 1.9.6-arm64_0x1.6bb8218aa6174p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 316;
+        };
+        "GOM Player_0x1.2ad81e48p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 316;
+        };
+        "Google Chrome_0x1.6c9dc23p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 186;
+        };
+        "Install Parallels Desktop_0x1.6846e488p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 186;
+        };
+        "Karabiner-Elements-15.3.0_0x1.667e4c28p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 316;
+        };
+        "ParagonFS.localized_0x1.64cb8238p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = "-160";
+        };
+        "Raycast_0x1.6cd64ecp+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-71";
+            yRelative = 99;
+        };
+        "SKYBOX 1.1.9-564-arm64_0x1.691cdbbade1dap+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 68;
+        };
+        "Seagate Portable Drive_0x1.51309648p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 68;
+        };
+        "Seagate Portable Drive_0x1.5130964b7f533p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 72;
+        };
+        "Traktor Kontrol S4_0x1.babec79p+28" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 68;
+        };
+        "Untitled_-0x1.d27e44p+29" =         {
+            AnchorRelativeTo = 2;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = "-399";
+        };
+        "VLC media player_0x1.608d6a7p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 68;
+        };
+        "Warp_0x1.6d02015p+29" =         {
+            AnchorRelativeTo = 1;
+            ScreenID = 0;
+            xRelative = "-65";
+            yRelative = 410;
+        };
+    };
+    FXDetachedDesktopProviderID = "";
+    FXDetachedDocumentsProviderID = "";
+    FXICloudDriveDesktop = 0;
+    FXICloudDriveDocuments = 0;
+    FXICloudDriveEnabled = 1;
+    FXICloudLoggedIn = 1;
+    FXInfoPanesExpanded =     {
+        Comments = 1;
+        MetaData = 1;
+        Name = 1;
+        OpenWith = 1;
+    };
+    FXLastSearchScope = SCev;
+    "FXPreferencesWindow.Location" = "{{75, 404}, {377, 402}}";
+    FXPreferredSearchViewStyle = Nlsv;
+    FXPreferredSearchViewStyleVersion = "%00%00%00%01";
+    FXPreferredViewStyle = Nlsv;
+    FXQuickActionsConfigUpgradeLevel = 3;
+    FXRecentFolders =     (
+                {
+            "file-bookmark" = {length = 668, bytes = 0x626f6f6b 9c020000 00000410 30000000 ... 04000000 00000000 };
+            name = Downloads;
+        },
+                {
+            "file-bookmark" = {length = 820, bytes = 0x626f6f6b 34030000 00000410 30000000 ... 04000000 00000000 };
+            name = Shortcuts;
+        },
+                {
+            "file-bookmark" = {length = 808, bytes = 0x626f6f6b 28030000 00000410 30000000 ... 04000000 00000000 };
+            name = Preview;
+        },
+                {
+            "file-bookmark" = {length = 820, bytes = 0x626f6f6b 34030000 00000410 30000000 ... 04000000 00000000 };
+            name = CotEditor;
+        },
+                {
+            "file-bookmark" = {length = 764, bytes = 0x626f6f6b fc020000 00000410 30000000 ... 04000000 00000000 };
+            name = "iCloud Drive";
+        },
+                {
+            "file-bookmark" = {length = 820, bytes = 0x626f6f6b 34030000 00000410 30000000 ... 04000000 00000000 };
+            name = Shared;
+        },
+                {
+            "file-bookmark" = {length = 456, bytes = 0x626f6f6b c8010000 00000410 30000000 ... 04000000 00000000 };
+            name = "Macintosh HD";
+        },
+                {
+            "file-bookmark" = {length = 668, bytes = 0x626f6f6b 9c020000 00000410 30000000 ... 04000000 00000000 };
+            name = Documents;
+        },
+                {
+            "file-bookmark" = {length = 748, bytes = 0x626f6f6b ec020000 00000410 30000000 ... 04000000 00000000 };
+            name = Reports;
+        }
+    );
+    FXSidebarUpgradedSharedSearchToTwelve = 1;
+    FXSidebarUpgradedToTenFourteen = 1;
+    FXSidebarUpgradedToTenTen = 1;
+    FXSyncExtensionToolbarItemsPendingAdd =     (
+    );
+    FXSyncExtensionToolbarItemsPendingRemove =     (
+        "com.ScooterSoftware.BeyondCompare.BCFinder",
+        "com.hegenberg.BetterTouchTool.BTTFinderContextMenu"
+    );
+    FXToolbarUpgradedToTenEight = 1;
+    FXToolbarUpgradedToTenNine = 2;
+    FXToolbarUpgradedToTenSeven = 1;
+    FavoriteTagNames =     (
+        "",
+        Red,
+        Orange,
+        Yellow,
+        Green,
+        Blue,
+        Purple,
+        Gray
+    );
+    FontSizeCategory = Custom;
+    GoToField = "/Volumes/Seagate Portable Drive/MUSIC/Soulseek/complete/Rich/Contents";
+    GoToFieldHistory =     (
+        "/Volumes/Seagate Portable Drive/MUSIC/Soulseek/complete/Rich/Contents",
+        "/Volumes/Seagate Portable Drive/MACTRANSFER/MUSIC/Soulseek/downloading",
+        "/Users/anshul/.config/karabiner",
+        "/Volumes/Seagate Portable Drive/temp/asdfadfadf/MUSIC/Soulseek/Rich",
+        "/Users/anshul/Anshul/MUSIC/MUSIC/Soulseek/complete"
+    );
+    ICloudViewSettings =     {
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 0;
+            ShowToolbar = 1;
+            WindowBounds = "{{29, 0}, {1505, 1085}}";
+        };
+    };
+    LastTrashState = 1;
+    MeetingRoomViewSetting =     {
+        CustomViewStyleVersion = 1;
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 0;
+            ShowTabView = 0;
+            ShowToolbar = 1;
+            WindowBounds = "{{404, 503}, {920, 436}}";
+        };
+    };
+    NSNavPanelExpandedSizeForOpenMode = "{831, 448}";
+    NSOSPLastRootDirectory = {length = 588, bytes = 0x626f6f6b 4c020000 00000410 30000000 ... 10010000 00000000 };
+    "NSToolbar Configuration Browser" =     {
+        "TB Display Mode" = 2;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSWindow Frame GoToSheet" = "893 803 460 180 0 0 1728 1085 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "333 313 831 363 0 0 1728 1085 ";
+    "NSWindow Frame SearchAttributeSheet" = "415 135 643 421 0 0 1312 824 ";
+    NewWindowTarget = PfCm;
+    NewWindowTargetPath = "file:///";
+    "PreferencesWindow.LastSelection" = GNRL;
+    PreviewPaneInfoExpanded = 0;
+    PreviewPaneWidth = 240;
+    RecentMoveAndCopyDestinations =     (
+        "file:///Users/anshul/Documents/VirtualDJ/",
+        "file:///Users/anshul/Downloads/vdjdbback/vdjcleanup/VDJCleanup/",
+        "file:///Users/anshul/Downloads/vdjdbback/vdjcleanup/",
+        "file:///Users/anshul/Downloads/vdjdbback/FEYN/",
+        "file:///Applications/",
+        "file:///Users/anshul/.config/karabiner/",
+        "file:///Users/anshul/.config/karabiner/sdgsdgdfg/",
+        "file:///Users/anshul/Anshul/Code/",
+        "file:///Users/anshul/temp/"
+    );
+    RecentsArrangeGroupViewBy = "Date Last Opened";
+    SGTRecentFileSearches =     (
+                {
+            attributes =             (
+                kMDItemContentTypeTree
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 0;
+            name = "MPEG-4 movie";
+            scope = 3;
+            type = "com.apple.finder";
+            values =             (
+                "public.mpeg-4"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemContentTypeTree
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = Movie;
+            scope = 3;
+            type = "com.apple.finder";
+            values =             (
+                "public.movie"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = "dji_0092";
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                "dji_0092"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = saturn;
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                saturn
+            );
+        },
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = "generated_simple_1748504390_0.png";
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                "generated_simple_1748504390_0.png"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemKind
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 0;
+            name = "AVI movie";
+            scope = 3;
+            type = "com.apple.finder";
+            values =             (
+                "public.avi"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = "Secure Book";
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                "Secure Book"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = "secure bookmark";
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                "secure bookmark"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = "secure bookmarks";
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                "secure bookmarks"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = "secure chr";
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                "secure chr"
+            );
+        },
+                {
+            attributes =             (
+                kMDItemContentTypeTree
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 0;
+            name = Application;
+            scope = 3;
+            type = "com.apple.finder";
+            values =             (
+                "com.apple.application-bundle"
+            );
+        }
+    );
+    SearchRecentsSavedViewStyleVersion = "%00%00%00%01";
+    SearchRecentsViewSettings =     {
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 0;
+            ShowToolbar = 1;
+            WindowBounds = "{{864, 0}, {864, 1085}}";
+        };
+    };
+    SearchViewSettings =     {
+        ExtendedListViewSettingsV2 =         {
+            axTextSize = 15;
+            calculateAllSizes = 0;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 1154;
+                },
+                                {
+                    ascending = 0;
+                    identifier = ubiquity;
+                    visible = 0;
+                    width = 35;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 1;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateAdded;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = invitationStatus;
+                    visible = 0;
+                    width = 210;
+                }
+            );
+            iconSize = 16;
+            showIconPreview = 1;
+            sortColumn = size;
+            textSize = 15;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        IconViewSettings =         {
+            arrangeBy = size;
+            axTextSize = 13;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 54;
+            iconSize = 72;
+            labelOnBottom = 1;
+            showIconPreview = 1;
+            showItemInfo = 0;
+            textSize = 13;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            axTextSize = 15;
+            calculateAllSizes = 0;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 1;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 1154;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            showIconPreview = 1;
+            sortColumn = size;
+            textSize = 15;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 0;
+            ShowToolbar = 1;
+            WindowBounds = "{{0, 0}, {1728, 1085}}";
+        };
+    };
+    ShowExternalHardDrivesOnDesktop = 0;
+    ShowHardDrivesOnDesktop = 0;
+    ShowPathbar = 1;
+    ShowPreviewPane = 1;
+    ShowRecentTags = 0;
+    ShowRemovableMediaOnDesktop = 0;
+    ShowSidebar = 1;
+    ShowStatusBar = 1;
+    SidebarDevicesSectionDisclosedState = 1;
+    SidebarPlacesSectionDisclosedState = 1;
+    SidebarShowingSignedIntoiCloud = 1;
+    SidebarShowingiCloudDesktop = 0;
+    SidebarWidth = 168;
+    SidebariCloudDriveSectionDisclosedState = 1;
+    SlicesRootAttributes =     (
+        kMDItemDisplayName,
+        kMDItemLastUsedDate,
+        kMDItemTextContent,
+        kMDItemContentCreationDate,
+        kMDItemFSContentChangeDate,
+        kMDItemKind
+    );
+    SmartSharedSearchViewSettings =     {
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 0;
+            ShowToolbar = 1;
+            WindowBounds = "{{29, 0}, {1505, 1085}}";
+        };
+    };
+    StandardViewOptions =     {
+        ColumnViewOptions =         {
+            ArrangeBy = dnam;
+            ColumnShowFolderArrow = 1;
+            ColumnShowIcons = 1;
+            ColumnWidth = 245;
+            FontSize = 13;
+            PreviewDisclosureState = 1;
+            SharedArrangeBy = kipl;
+            ShowIconThumbnails = 1;
+            ShowPreview = 1;
+        };
+    };
+    StandardViewSettings =     {
+        ExtendedListViewSettingsV2 =         {
+            axTextSize = 16;
+            calculateAllSizes = 1;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 187;
+                },
+                                {
+                    ascending = 0;
+                    identifier = ubiquity;
+                    visible = 0;
+                    width = 35;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateAdded;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 210;
+                },
+                                {
+                    ascending = 0;
+                    identifier = invitationStatus;
+                    visible = 0;
+                    width = 210;
+                }
+            );
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = dateModified;
+            textSize = 16;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        GalleryViewSettings =         {
+            arrangeBy = name;
+            iconSize = 48;
+            showIconPreview = 1;
+            viewOptionsVersion = 1;
+        };
+        IconViewSettings =         {
+            arrangeBy = none;
+            axTextSize = 13;
+            backgroundColorBlue = 1;
+            backgroundColorGreen = 1;
+            backgroundColorRed = 1;
+            backgroundType = 0;
+            gridOffsetX = 0;
+            gridOffsetY = 0;
+            gridSpacing = 54;
+            iconSize = 72;
+            labelOnBottom = 1;
+            showIconPreview = 1;
+            showItemInfo = 0;
+            textSize = 13;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            axTextSize = 16;
+            calculateAllSizes = 1;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 0;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 187;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 0;
+            showIconPreview = 1;
+            sortColumn = dateModified;
+            textSize = 16;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        SettingsType = StandardViewSettings;
+    };
+    TagsCloudSerialNumber = 1;
+    TrashViewSettings =     {
+        CustomViewStyleVersion = 1;
+        ExtendedListViewSettingsV2 =         {
+            axTextSize = 13;
+            calculateAllSizes = 1;
+            columns =             (
+                                {
+                    ascending = 1;
+                    identifier = name;
+                    visible = 1;
+                    width = 553;
+                },
+                                {
+                    ascending = 0;
+                    identifier = ubiquity;
+                    visible = 0;
+                    width = 35;
+                },
+                                {
+                    ascending = 1;
+                    identifier = dateModified;
+                    visible = 1;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateCreated;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = size;
+                    visible = 1;
+                    width = 97;
+                },
+                                {
+                    ascending = 1;
+                    identifier = kind;
+                    visible = 1;
+                    width = 115;
+                },
+                                {
+                    ascending = 1;
+                    identifier = label;
+                    visible = 0;
+                    width = 100;
+                },
+                                {
+                    ascending = 1;
+                    identifier = version;
+                    visible = 0;
+                    width = 75;
+                },
+                                {
+                    ascending = 1;
+                    identifier = comments;
+                    visible = 0;
+                    width = 300;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateLastOpened;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareOwner;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = shareLastEditor;
+                    visible = 0;
+                    width = 200;
+                },
+                                {
+                    ascending = 0;
+                    identifier = dateAdded;
+                    visible = 0;
+                    width = 181;
+                },
+                                {
+                    ascending = 0;
+                    identifier = invitationStatus;
+                    visible = 0;
+                    width = 210;
+                }
+            );
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 123;
+            showIconPreview = 1;
+            sortColumn = size;
+            textSize = 13;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        ListViewSettings =         {
+            axTextSize = 13;
+            calculateAllSizes = 1;
+            columns =             {
+                comments =                 {
+                    ascending = 1;
+                    index = 7;
+                    visible = 0;
+                    width = 300;
+                };
+                dateCreated =                 {
+                    ascending = 0;
+                    index = 2;
+                    visible = 0;
+                    width = 181;
+                };
+                dateLastOpened =                 {
+                    ascending = 0;
+                    index = 8;
+                    visible = 0;
+                    width = 200;
+                };
+                dateModified =                 {
+                    ascending = 1;
+                    index = 1;
+                    visible = 1;
+                    width = 181;
+                };
+                kind =                 {
+                    ascending = 1;
+                    index = 4;
+                    visible = 1;
+                    width = 115;
+                };
+                label =                 {
+                    ascending = 1;
+                    index = 5;
+                    visible = 0;
+                    width = 100;
+                };
+                name =                 {
+                    ascending = 1;
+                    index = 0;
+                    visible = 1;
+                    width = 553;
+                };
+                size =                 {
+                    ascending = 0;
+                    index = 3;
+                    visible = 1;
+                    width = 97;
+                };
+                version =                 {
+                    ascending = 1;
+                    index = 6;
+                    visible = 0;
+                    width = 75;
+                };
+            };
+            iconSize = 16;
+            scrollPositionX = 0;
+            scrollPositionY = 123;
+            showIconPreview = 1;
+            sortColumn = size;
+            textSize = 13;
+            useRelativeDates = 1;
+            viewOptionsVersion = 1;
+        };
+        WindowState =         {
+            ContainerShowSidebar = 1;
+            ShowSidebar = 1;
+            ShowStatusBar = 1;
+            ShowTabView = 0;
+            ShowToolbar = 1;
+            WindowBounds = "{{14, 418}, {1147, 492}}";
+        };
+    };
+    "ViewOptionsWindow.Location" = "{118, 330}";
+}

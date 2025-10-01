@@ -1,0 +1,95 @@
+{
+    "Adjust Volume For CDM Warning" = 0;
+    "Allow Closed-Display Sleep" = 1;
+    "Allow Display Sleep" = 0;
+    "Allow Display Sleep When Screen Is Locked" = 0;
+    "Allow Screen Saver" = 0;
+    "Always Ask to End For Low Battery" = 0;
+    "Ask To Install Power Protect" = 1;
+    "Auto Remove Notifications" = 1;
+    "Custom Time Single-Use Hours" = 0;
+    "Custom Time Single-Use Minutes" = 0;
+    "Default Duration" = 0;
+    DefaultHotkeyAction = 0;
+    "Drive Alive Data" =     (
+    );
+    "Drive Wake Interval" = 10;
+    "Enable CDM Warning" = 0;
+    "Enable Drive Alive" = 0;
+    "Enable Mouse Movement" = 0;
+    "Enable Notification Sound" = 1;
+    "Enable Session Auto End Notifications" = 1;
+    "Enable Session Auto Start Notifications" = 1;
+    "Enable Session Extend Sound" = 1;
+    "Enable Session Notifications" = 0;
+    "Enable Session State Sound" = 1;
+    "Enable Statistics" = 1;
+    "Enable Triggers" = 1;
+    "End Session On Low Battery" = 1;
+    "End Sessions On Forced Sleep" = 0;
+    "End Sessions when FUS" = 0;
+    "Hide Dock Icon" = 1;
+    "Icon Style" = 0;
+    "Ignore Battery on AC" = 0;
+    "Last Selected App" = stremio;
+    "Lock Screen After Inactivity" = 0;
+    "Lock Screen For CDM" = 0;
+    "Lock Screen Inactivity Delay" = 60;
+    "Low Battery Percent" = 10;
+    "Lower Icon Opacity" = 0;
+    "Manage Status Item Image Padding" = 0;
+    "Mouse Movement Inactivity Delay" = 300;
+    "Mouse Movement Interval" = 60;
+    "Mouse Movement Smoothness" = 1;
+    "NSStatusItem Preferred Position Amphetamine" = 5905;
+    "Notification Sound End" = 0;
+    "Notification Sound Start" = 0;
+    "Other Time Clock Last Selection" = "2025-05-08 00:18:00 +0000";
+    "Reduce Motion" = 0;
+    "Repeat CDM Warning" = 0;
+    "Repeat Interval For CDM Warning" = 300;
+    "Restart DD Session on AC Reconnect" = 0;
+    "Screen Lock Uses Mouse Activity" = 0;
+    "Screen Saver Delay" = 5;
+    "Session Durations" =     (
+        0,
+        2011,
+        2400,
+        1,
+        1759,
+        31363,
+        1199,
+        3600,
+        5535,
+        54895,
+        69107,
+        50291,
+        25373,
+        5,
+        4,
+        19449,
+        54612
+    );
+    "Session End Time Calcuation" = 0;
+    "Session Notification Interval" = 60;
+    "Show Seconds In Bar Time Remaining" = 0;
+    "Show Session Details In Menu" = 1;
+    "Show Session Time In Status Bar" = 0;
+    "Show Welcome Window" = 0;
+    "Show Woke Drives In Menu" = 0;
+    "Start Session At Launch" = 0;
+    "Start Session On Wake" = 0;
+    StartNewSessionHotkeyDuration = 0;
+    "Status Bar Font Size" = 0;
+    "Status Bar Session Time Format" = 0;
+    "Status Item Click" = 0;
+    "Status Item Image Padding" = 8;
+    "Stop Mouse Movement" = 0;
+    "Stop Mouse Movement Inactivity Delay" = 1800;
+    "Total Session Run Time" = 321604;
+    "Trigger Data" =     (
+    );
+    "Use 24 Hour Clock" = 0;
+    "Volume Level For CDM Warning" = 5;
+    cdmEnabled = 1;
+}

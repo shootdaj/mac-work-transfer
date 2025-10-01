@@ -1,0 +1,70 @@
+{
+    MainWindowLastPosition = "{{0, 56}, {1728, 972}}";
+    NSFullScreenMenuItemEverywhere = 0;
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSOSPLastRootDirectory = {length = 748, bytes = 0x626f6f6b ec020000 00000410 30000000 ... 8c010000 00000000 };
+    "NSSplitView Subview Frames NSColorPanelSplitView" =     (
+        "0.000000, 0.000000, 224.000000, 258.000000, NO, NO",
+        "0.000000, 259.000000, 224.000000, 48.000000, NO, NO"
+    );
+    "NSTableView Columns v3 HistoryWindowTable" = {length = 571, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000018d };
+    "NSTableView Sort Ordering v2 HistoryWindowTable" = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b5 };
+    "NSTableView Supports v2 HistoryWindowTable" = 1;
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    "NSWindow Frame IINAPreferenceWindow" = "101 335 820 480 0 0 1728 1085 ";
+    "NSWindow Frame IINAWelcomeWindow" = "540 343 640 400 0 0 1728 1085 ";
+    "NSWindow Frame NSColorPanel" = "0 81 224 278 0 0 1728 1085 ";
+    "NSWindow Frame NSNavPanelAutosaveName" = "348 368 800 448 0 0 1496 939 ";
+    "NSWindow Frame NSSpellCheckerSubstitutionsPanel2" = "692 407 425 137 0 0 1496 939 ";
+    "NSWindow Frame PlaybackHistoryWindow" = "716 124 1012 668 0 0 1728 1085 ";
+    SGTRecentFileSearches =     (
+                {
+            attributes =             (
+                kMDItemDisplayName,
+                "_kMDItemFileName",
+                kMDItemPhotosTitle
+            );
+            enforceStrictMatch = 0;
+            exactMatch = 0;
+            name = liya;
+            scope = 4;
+            type = "com.apple.finder";
+            values =             (
+                liya
+            );
+        }
+    );
+    SUAutomaticallyUpdate = 0;
+    SUEnableAutomaticChecks = 0;
+    SUHasLaunchedBefore = 1;
+    SUSendProfileInfo = 0;
+    controlBarPositionHorizontal = "0.4877681136131287";
+    controlBarPositionVertical = "0.05277777835726738";
+    currentInputConfigName = "IINA Default";
+    enableAdvancedSettings = 1;
+    forceDedicatedGPU = 1;
+    hardwareDecoder = 2;
+    iinaLastPlayedFilePath = "~/Downloads/EPORNER.COM - [4LVhTVbvayF] QQ Dakota (2160).mp4";
+    iinaLastPlayedFilePosition = "1497.083333333333";
+    quitWhenNoOpenedWindow = 1;
+    recentDocuments =     (
+        {length = 1248, bytes = 0x626f6f6b e0040000 00000410 30000000 ... e8020000 00000000 },
+        {length = 1256, bytes = 0x626f6f6b e8040000 00000410 30000000 ... f4020000 00000000 },
+        {length = 1272, bytes = 0x626f6f6b f8040000 00000410 30000000 ... f4020000 00000000 },
+        {length = 1320, bytes = 0x626f6f6b 28050000 00000410 30000000 ... 20030000 00000000 },
+        {length = 1344, bytes = 0x626f6f6b 40050000 00000410 30000000 ... 2c030000 00000000 },
+        {length = 1060, bytes = 0x626f6f6b 24040000 00000410 30000000 ... 08020000 00000000 },
+        {length = 1040, bytes = 0x626f6f6b 10040000 00000410 30000000 ... fc010000 00000000 },
+        {length = 1020, bytes = 0x626f6f6b fc030000 00000410 30000000 ... f4010000 00000000 },
+        {length = 1024, bytes = 0x626f6f6b 00040000 00000410 30000000 ... f4010000 00000000 },
+        {length = 996, bytes = 0x626f6f6b e4030000 00000410 30000000 ... f8010000 00000000 }
+    );
+    resumeLastPosition = 0;
+    savedVideoFilters =     (
+    );
+    showRemainingTime = 1;
+    softVolume = 69;
+    subAutoLoadIINA = 0;
+}

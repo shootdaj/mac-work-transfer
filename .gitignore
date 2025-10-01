@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Private/sensitive data
+.env
+.env.local
+*.key
+*.pem
+docs/configs/gitkraken/

@@ -1,0 +1,15 @@
+{
+    LastRunAppBundlePath = "/Applications/Brave Browser.app";
+    NSNavLastUserSetHideExtensionButtonState = 0;
+    NSNavPanelExpandedSizeForOpenMode = "{800, 448}";
+    NSNavPanelExpandedSizeForSaveMode = "{800, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    NSOSPLastRootDirectory = {length = 748, bytes = 0x626f6f6b ec020000 00000410 30000000 ... 8c010000 00000000 };
+    "NSWindow Frame NSNavPanelAutosaveName" = "464 319 800 448 0 0 1728 1085 ";
+    SUAutomaticallyUpdate = 1;
+    SUEnableAutomaticChecks = 1;
+    SUHasLaunchedBefore = 1;
+    SULastCheckTime = "2025-09-04 23:44:43 +0000";
+    SUScheduledCheckInterval = 10800;
+    SUUpdateRelaunchingMarker = 0;
+}

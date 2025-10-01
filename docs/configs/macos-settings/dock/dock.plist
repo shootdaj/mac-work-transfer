@@ -1,0 +1,609 @@
+{
+    autohide = 1;
+    "autohide-delay" = 0;
+    "autohide-time-modifier" = "0.35";
+    largesize = 79;
+    "last-analytics-stamp" =     (
+        "779443380.395672"
+    );
+    lastShowIndicatorTime = "768010111.42618";
+    launchanim = 1;
+    loc = "en_US:US";
+    magnification = 1;
+    mineffect = scale;
+    "minimize-to-application" = 1;
+    "mod-count" = 2031;
+    orientation = bottom;
+    "persistent-apps" =     (
+                {
+            GUID = 806650764;
+            "tile-data" =             {
+                book = {length = 816, bytes = 0x626f6f6b 30030000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.parallels.winapp.ce792c530b68d72a672d77a11c6d0df2.4d1e693f6d7f40499ae2e4f0380640fe";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications%20(Parallels)/%7B4d1e693f-6d7f-4049-9ae2-e4f0380640fe%7D%20Applications.localized/File%20Explorer.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "File Explorer";
+                "file-mod-date" = 238718116113590;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 166042979813171;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3685514588;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.vivaldi.Vivaldi";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Vivaldi.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Vivaldi;
+                "file-mod-date" = 377501446065;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 197610989707775;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2541303144;
+            "tile-data" =             {
+                book = {length = 552, bytes = 0x626f6f6b 28020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "dev.warp.Warp-Stable";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Warp.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Warp;
+                "file-mod-date" = 85684141782666;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 11041905145593;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3685514598;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.anthropic.claudefordesktop";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Claude.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Claude;
+                "file-mod-date" = 3839375844;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 182011669186867;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            "tile-data" =             {
+                book = {length = 756, bytes = 0x626f6f6b f4020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.vivaldi.Vivaldi.app.fmpnliohjhemenmnlpbfagaolkdacoja";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Claude.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Claude;
+                "file-mod-date" = 147969757960925;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 165669318619718;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1609219602;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "notion.id";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Notion.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Notion;
+                "file-mod-date" = 3839797278;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 182011669186867;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3643989318;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.openai.chat";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/ChatGPT.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = ChatGPT;
+                "file-mod-date" = 114889920189208;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 182011669186867;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2415262490;
+            "tile-data" =             {
+                book = {length = 756, bytes = 0x626f6f6b f4020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome.app.hpfldicfbfomlpcikngkocigghgafkph";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Messages.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Messages;
+                "file-mod-date" = 280817380557266;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 240032381680827;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3643989315;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "org.whispersystems.signal-desktop";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Signal.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Signal;
+                "file-mod-date" = 121048902615094;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 108984339438449;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1609219619;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "net.whatsapp.WhatsApp";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/WhatsApp.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = WhatsApp;
+                "file-mod-date" = 154811637898441;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 53974398644119;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1548714019;
+            "tile-data" =             {
+                book = {length = 756, bytes = 0x626f6f6b f4020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.vivaldi.Vivaldi.app.fmgjjmmmlfnkbppncabfkddbjimcfncm";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Gmail%201.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Gmail;
+                "file-mod-date" = 228607768673467;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 157096563464925;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1548714020;
+            "tile-data" =             {
+                book = {length = 768, bytes = 0x626f6f6b 00030000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.vivaldi.Vivaldi.app.kjbdgfilnfhdoflbpgamdcdgpehopbep";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Google%20Calendar%201.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Google Calendar";
+                "file-mod-date" = 240062446451899;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 165669318619718;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1548714021;
+            "tile-data" =             {
+                book = {length = 764, bytes = 0x626f6f6b fc020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.vivaldi.Vivaldi.app.ncmjhecbjeaamljdfahankockkkdmedg";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Google%20Photos.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Google Photos";
+                "file-mod-date" = 274014162861813;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 165669318619718;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3632714575;
+            "tile-data" =             {
+                book = {length = 812, bytes = 0x626f6f6b 2c030000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.parallels.winapp.709468af25e91284821d1bdbfdded24c.4d1e693f6d7f40499ae2e4f0380640fe";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications%20(Parallels)/%7B4d1e693f-6d7f-4049-9ae2-e4f0380640fe%7D%20Applications.localized/Everything.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Everything;
+                "file-mod-date" = 14799997750135;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 129574412700934;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2519336456;
+            "tile-data" =             {
+                book = {length = 764, bytes = 0x626f6f6b fc020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome.app.pifpidfonkdpkgpakabdaofhbcpkdcfi";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Google%20Gemini.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Google Gemini";
+                "file-mod-date" = 48764598576670;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 240032381680827;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3694468375;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.todesktop.230313mzl4w4u92";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Cursor.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Cursor;
+                "file-mod-date" = 2398392000;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 53974398644119;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3445562633;
+            "tile-data" =             {
+                book = {length = 760, bytes = 0x626f6f6b f8020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome.app.mnhkaebcjjhencmpkapnbdaogjamfbcj";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Google%20Maps.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Google Maps";
+                "file-mod-date" = 156366415437665;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 165669318619718;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1548714022;
+            "tile-data" =             {
+                book = {length = 760, bytes = 0x626f6f6b f8020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.vivaldi.Vivaldi.app.agimnkijcaahngcdmfeangaknmldooml";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/YouTube%201.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = YouTube;
+                "file-mod-date" = 110380203850687;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 165669318619718;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2927110802;
+            "tile-data" =             {
+                book = {length = 756, bytes = 0x626f6f6b f4020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome.app.cadlkienfkclaiaibeoongdcgmdikeeg";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/ChatGPT.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = ChatGPT;
+                "file-mod-date" = 223114501235840;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 91074325331043;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3638347782;
+            "tile-data" =             {
+                book = {length = 760, bytes = 0x626f6f6b f8020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome.app.akpamiohjfcnimfljfndmaldlcfphjmp";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Instagram.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Instagram;
+                "file-mod-date" = 108705160776686;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 240032381680827;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2970219768;
+            "tile-data" =             {
+                book = {length = 764, bytes = 0x626f6f6b fc020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome.app.fklbjelakphlmibggfkjhjphnednphng";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Quicken%20Simplifi.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Quicken Simplifi";
+                "file-mod-date" = 126241511801125;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 157096563464925;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 806650782;
+            "tile-data" =             {
+                book = {length = 552, bytes = 0x626f6f6b 28020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "app.zen-browser.zen";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Zen.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Zen;
+                "file-mod-date" = 199779948118265;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 53974398644119;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 2013923325;
+            "tile-data" =             {
+                book = {length = 564, bytes = 0x626f6f6b 34020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Google%20Chrome.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "Google Chrome";
+                "file-mod-date" = 94531763171191;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 234302894807851;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 806650763;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "org.mozilla.firefox";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Firefox.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Firefox;
+                "file-mod-date" = 67069752838051;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 224549024237643;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 3685514608;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.smartcodeltd.stremio";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Stremio.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Stremio;
+                "file-mod-date" = 3794380874;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 17729168890727;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1239677016;
+            "tile-data" =             {
+                book = {length = 752, bytes = 0x626f6f6b f0020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.google.Chrome.app.ggjocahimgaohmigbfhghnlfcnjemagj";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Grok.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Grok;
+                "file-mod-date" = 154090078195713;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 110363023981503;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 348532750;
+            "tile-data" =             {
+                book = {length = 588, bytes = 0x626f6f6b 4c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.apple.systempreferences";
+                "dock-extra" = 1;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///System/Applications/System%20Settings.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "System Settings";
+                "file-mod-date" = 3827279769;
+                "file-type" = 41;
+                "is-beta" = 0;
+                "parent-mod-date" = 3827279769;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 664722953;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.microsoft.copilot-mac";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Copilot.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Copilot;
+                "file-mod-date" = 247325234792243;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 233856217351987;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            "tile-data" =             {
+                book = {length = 756, bytes = 0x626f6f6b f4020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.vivaldi.Vivaldi.app.pliiebkcmokkgndfalahlmimanmbjlab";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Users/anshul/Applications/Chrome%20Apps.localized/Discord.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Discord;
+                "file-mod-date" = 0;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 0;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    "persistent-others" =     (
+    );
+    "recent-apps" =     (
+                {
+            GUID = 1548714077;
+            "tile-data" =             {
+                book = {length = 556, bytes = 0x626f6f6b 2c020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.rekord.cloud.lexicon";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/Lexicon.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = Lexicon;
+                "file-mod-date" = 3839657680;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 182011669186867;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1548714082;
+            "tile-data" =             {
+                book = {length = 560, bytes = 0x626f6f6b 30020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "com.teamviewer.TeamViewer";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/TeamViewer.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = TeamViewer;
+                "file-mod-date" = 63212873690105;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 182011669186867;
+            };
+            "tile-type" = "file-tile";
+        },
+                {
+            GUID = 1548714084;
+            "tile-data" =             {
+                book = {length = 560, bytes = 0x626f6f6b 30020000 00000410 30000000 ... 04000000 00000000 };
+                "bundle-identifier" = "ai.elementlabs.lmstudio";
+                "dock-extra" = 0;
+                "file-data" =                 {
+                    "_CFURLString" = "file:///Applications/LM%20Studio.app/";
+                    "_CFURLStringType" = 15;
+                };
+                "file-label" = "LM Studio";
+                "file-mod-date" = 3828406728;
+                "file-type" = 1;
+                "is-beta" = 0;
+                "parent-mod-date" = 182011669186867;
+            };
+            "tile-type" = "file-tile";
+        }
+    );
+    region = US;
+    showAppExposeGestureEnabled = 0;
+    showDesktopGestureEnabled = 0;
+    showLaunchpadGestureEnabled = 0;
+    showMissionControlGestureEnabled = 0;
+    tilesize = 51;
+    "trash-full" = 1;
+    version = 1;
+    "wvous-bl-corner" = 1;
+    "wvous-bl-modifier" = 0;
+    "wvous-br-corner" = 1;
+    "wvous-br-modifier" = 0;
+}

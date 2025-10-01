@@ -1,0 +1,36 @@
+{
+    "LastHeartbeatDateString.daily" = "2025-09-13T09:15:39Z";
+    "NSStatusItem Preferred Position AccessibilityShortcuts" = 354;
+    "NSStatusItem Preferred Position AudioVideoModule" = 610;
+    "NSStatusItem Preferred Position Battery" = 194;
+    "NSStatusItem Preferred Position BentoBox" = 160;
+    "NSStatusItem Preferred Position Bluetooth" = 270;
+    "NSStatusItem Preferred Position FocusModes" = 443;
+    "NSStatusItem Preferred Position KeyboardBrightness" = 388;
+    "NSStatusItem Preferred Position MusicRecognition" = 5452;
+    "NSStatusItem Preferred Position NowPlaying" = 302;
+    "NSStatusItem Preferred Position ScreenMirroring" = 5950;
+    "NSStatusItem Preferred Position WiFi" = 335;
+    "NSStatusItem Visible AccessibilityShortcuts" = 0;
+    "NSStatusItem Visible AudioVideoModule" = 0;
+    "NSStatusItem Visible Battery" = 1;
+    "NSStatusItem Visible BentoBox" = 1;
+    "NSStatusItem Visible Bluetooth" = 1;
+    "NSStatusItem Visible Clock" = 1;
+    "NSStatusItem Visible FocusModes" = 0;
+    "NSStatusItem Visible Item-0" = 0;
+    "NSStatusItem Visible Item-1" = 0;
+    "NSStatusItem Visible Item-2" = 0;
+    "NSStatusItem Visible Item-3" = 0;
+    "NSStatusItem Visible Item-4" = 0;
+    "NSStatusItem Visible Item-5" = 0;
+    "NSStatusItem Visible Item-6" = 0;
+    "NSStatusItem Visible Item-7" = 0;
+    "NSStatusItem Visible Item-8" = 0;
+    "NSStatusItem Visible Item-9" = 0;
+    "NSStatusItem Visible KeyboardBrightness" = 0;
+    "NSStatusItem Visible MusicRecognition" = 0;
+    "NSStatusItem Visible NowPlaying" = 0;
+    "NSStatusItem Visible ScreenMirroring" = 0;
+    "NSStatusItem Visible WiFi" = 1;
+}

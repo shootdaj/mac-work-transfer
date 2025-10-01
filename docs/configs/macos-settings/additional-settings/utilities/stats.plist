@@ -1,0 +1,39 @@
+{
+    "Battery_position" = 6;
+    "Bluetooth_position" = 7;
+    "CPU_position" = 0;
+    "Clock_position" = 8;
+    CombinedModules = 0;
+    "CombinedModules_separator" = 1;
+    "Disk_position" = 3;
+    "GPU_position" = 1;
+    "GPU_state" = 1;
+    LaunchAtLoginNext = 1;
+    "NSStatusItem Preferred Position Battery" = 5839;
+    "NSStatusItem Preferred Position Battery_battery" = 5674;
+    "NSStatusItem Preferred Position CPU" = 450;
+    "NSStatusItem Preferred Position CPU_mini" = 527;
+    "NSStatusItem Preferred Position Disk" = 5713;
+    "NSStatusItem Preferred Position Disk_mini" = 5787;
+    "NSStatusItem Preferred Position GPU_mini" = 5936;
+    "NSStatusItem Preferred Position Network" = 5764;
+    "NSStatusItem Preferred Position Network_speed" = 5716;
+    "NSStatusItem Preferred Position RAM" = 501;
+    "NSStatusItem Preferred Position RAM_mini" = 480;
+    "NSToolbar Configuration eu.exelban.Stats.Settings.Toolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "Network_position" = 5;
+    "RAM_position" = 2;
+    "Sensors_position" = 4;
+    dockIcon = 1;
+    runAtLoginInitialized = 1;
+    setupProcess = 1;
+    "support_ts" = 1755349012;
+    telemetry = 0;
+    "updater_check_ts" = 1756540983;
+    version = "2.11.51";
+}

@@ -1,0 +1,24 @@
+{
+    "NSStatusItem Preferred Position Item-0" = 6309;
+    SUEnableAutomaticChecks = 0;
+    SUHasLaunchedBefore = 1;
+    allowAnyShortcut = 1;
+    alternateDefaultShortcuts = 1;
+    internalTilingNotified = 1;
+    lastVersion = 93;
+    maximize =     {
+        keyCode = 126;
+        modifierFlags = 524288;
+    };
+    reflowTodo =     {
+        keyCode = 45;
+        modifierFlags = 786432;
+    };
+    restore =     {
+    };
+    subsequentExecutionMode = 1;
+    toggleTodo =     {
+        keyCode = 11;
+        modifierFlags = 786432;
+    };
+}

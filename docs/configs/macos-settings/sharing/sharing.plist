@@ -1,0 +1,15 @@
+{
+    AirDropRandomHashUUIDKey1 = "458B220A-DA4E-4EBB-BAF0-039B60785C52";
+    AirDropRandomHashUUIDKey2 = "CB4369E4-03A9-4670-84AC-3566BFA33B54";
+    AirDropRandomHashUUIDKey3 = "FE729BF0-B178-4B1B-9999-8F3BA479CA78";
+    AirDropRandomHashUUIDKey4 = "E84262F2-A38B-4EAC-B683-67BB9364122B";
+    AutoUnlockPresentedBluetoothError = 0;
+    AutoUnlockPresentedWiFiError = 0;
+    DiscoverableMode = Off;
+    "HashManager-LastConsumedHistoryTokenKey" = {length = 579, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001c9 };
+    "HashManager-LastRebuiltDateKey" = "2025-09-16 18:18:38 +0000";
+    "HashManager-LastUpdatedDateKey" = "2025-09-16 18:18:38 +0000";
+    "HashManager-StoredDatabaseVersionKey" = 3;
+    OneTimeAirDropReset2 = 1;
+    "SFCollaborationUserDefaults." = 0;
+}

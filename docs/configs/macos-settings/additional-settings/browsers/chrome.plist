@@ -1,0 +1,10 @@
+{
+    LastRunAppBundlePath = "/Applications/Google Chrome.app";
+    NSNavPanelExpandedSizeForOpenMode = "{958, 412}";
+    NSNavPanelExpandedSizeForSaveMode = "{800, 448}";
+    NSNavPanelExpandedStateForSaveMode = 1;
+    NSOSPLastRootDirectory = {length = 748, bytes = 0x626f6f6b ec020000 00000410 30000000 ... 8c010000 00000000 };
+    NSUserKeyEquivalents =     {
+    };
+    "NSWindow Frame NSNavPanelAutosaveName" = "464 319 800 448 0 0 1728 1085 ";
+}

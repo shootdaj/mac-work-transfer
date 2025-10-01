@@ -1,0 +1,314 @@
+{
+    FontSizeCategory =     {
+        "com.apple.MobileSMS" = UseGlobal;
+        "com.apple.Notes" = UseGlobal;
+        "com.apple.finder" = Custom;
+        "com.apple.iBooksX" = UseGlobal;
+        "com.apple.iCal" = UseGlobal;
+        "com.apple.mail" = UseGlobal;
+        "com.apple.news" = UseGlobal;
+        "com.apple.stocks" = UseGlobal;
+        "com.apple.weather" = UseGlobal;
+        global = M;
+        version = "3.0";
+    };
+    History =     {
+        MouseKeys =         (
+                        {
+                Date = "2025-04-04 00:45:57";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-04 00:46:00";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-04 00:46:00";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-04 14:50:28";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-04 14:50:32";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-04 14:50:32";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-08 13:35:20";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-10 13:53:24";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-13 06:27:29";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-23 04:39:27";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-23 05:43:18";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-24 04:47:54";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-04-24 04:50:25";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-01 18:07:38";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-04 11:04:48";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-04 11:05:07";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-04 11:05:07";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-04 11:05:09";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-10 20:35:39";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-12 06:34:34";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-23 04:08:10";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-23 05:12:43";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-23 05:27:53";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-23 06:22:28";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-05-29 12:00:34";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-06-08 21:53:08";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-06-14 10:39:51";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-06-14 11:37:41";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-06-21 02:36:19";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-01 05:32:38";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-03 04:13:25";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-08 10:23:41";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-09 05:49:16";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-09 06:58:32";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-09 13:35:07";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-15 14:20:25";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-31 09:44:47";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-07-31 14:32:56";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-08-16 05:56:51";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-08-16 14:03:58";
+                Reason = Reset;
+                State = 0;
+            },
+                        {
+                Date = "2025-08-30 04:02:54";
+                Reason = Reset;
+                State = 0;
+            }
+        );
+    };
+    UserAssignableHotKeys =     (
+                {
+            enabled = 1;
+            key = 120;
+            modifier = 8650752;
+            sybmolichotkey = 7;
+        },
+                {
+            enabled = 1;
+            key = 99;
+            modifier = 8650752;
+            sybmolichotkey = 8;
+        },
+                {
+            enabled = 1;
+            key = 118;
+            modifier = 8650752;
+            sybmolichotkey = 9;
+        },
+                {
+            enabled = 1;
+            key = 96;
+            modifier = 8650752;
+            sybmolichotkey = 10;
+        },
+                {
+            enabled = 1;
+            key = 97;
+            modifier = 8650752;
+            sybmolichotkey = 11;
+        }
+    );
+    closeViewHotkeysEnabled = 0;
+    closeViewZoomDisplayID = 0;
+    closeViewZoomFactor = 1;
+    closeViewZoomFactorBeforeTermination = 1;
+    "com.apple.custommenu.apps" =     (
+        "com.fournova.Tower3",
+        NSGlobalDomain,
+        "com.google.Chrome"
+    );
+    contrast = "0.06505955010652542";
+    customFonts = 1;
+    differentiateWithoutColor = 0;
+    dwellActionType = 2;
+    dwellAlwaysAllowInMenuExtra = 0;
+    dwellEnabled = 0;
+    grayscale = 0;
+    grayscaleMigrated = 1;
+    hoverTextCustomCursorColor =     {
+    };
+    hoverTextEnabled = 0;
+    hoverTextIsAlwaysOn = 0;
+    hoverTextIsHoveringAndVisible = 0;
+    hoverTextTypingWindowPosition = 5;
+    hoverTypingBorderColor =     {
+    };
+    hoverTypingCustomBackgroundColor =     {
+    };
+    hoverTypingCustomFontColor =     {
+    };
+    hoverTypingElementHighlightColor =     {
+    };
+    hoverTypingEnabled = 0;
+    hoverTypingFontSize = 60;
+    hoverTypingFontStyle = 1;
+    hudNotifiedConstrast = "0.06505955010652542";
+    increaseContrast = 0;
+    keyboardAccessCommandMap = {length = 274, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000da };
+    keyboardAccessFocusRingTimeout = 15;
+    lastNightShiftActive = 1;
+    lastNightShiftDate = 20250423;
+    lastNightShiftEnabled = 0;
+    lastNightShiftMode = 0;
+    liveSpeechEnabled = 0;
+    login = 0;
+    mouseDriverCursorSize = "1.085418939590454";
+    reduceMotion = 0;
+    reduceTransparency = 0;
+    restoreTrueToneEnabled = 0;
+    sessionChange = 0;
+    showToolbarButtonShapes = 1;
+    showWindowTitlebarIcons = 1;
+    slowKey = 0;
+    slowKeyDelay = 250;
+    stickyKey = 0;
+    useStickyKeysShortcutKeys = 0;
+    virtualKeyboardOnOff = 0;
+    voiceOverOnOffKey = 0;
+    whiteOnBlack = 0;
+}

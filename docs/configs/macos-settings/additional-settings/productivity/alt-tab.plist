@@ -1,0 +1,30 @@
+{
+    MSAppCenter310AppCenterUserDefaultsMigratedKey = 1;
+    MSAppCenter310CrashesUserDefaultsMigratedKey = 1;
+    MSAppCenterAppDidReceiveMemoryWarning = 1;
+    MSAppCenterInstallId = "4CF997AB-940B-4F01-A733-C6071A190F41";
+    MSAppCenterNetworkRequestsAllowed = 0;
+    MSAppCenterPastDevices = {length = 1151, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000038b };
+    MSAppCenterSessionIdHistory = {length = 460, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000156 };
+    MSAppCenterUserIdHistory = {length = 455, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000151 };
+    "NSStatusItem Preferred Position Item-0" = 6271;
+    "NSWindow Frame NSFontPanel" = "797 105 445 235 0 0 1312 824 ";
+    "NSWindow Frame SUStatusFrame" = "395 417 400 135 0 0 1496 939 ";
+    "NSWindow Frame SUUpdateAlert" = "554 515 620 398 0 0 1728 1085 ";
+    SUHasLaunchedBefore = 1;
+    SULastCheckTime = "2025-08-30 08:30:56 +0000";
+    SUUpdateGroupIdentifier = 137576975;
+    SUUpdateRelaunchingMarker = 0;
+    appearanceSize = 1;
+    appearanceStyle = 0;
+    appearanceVisibility = 2;
+    arrowKeysEnabled = true;
+    cursorFollowFocusEnabled = false;
+    focusWindowShortcut = Space;
+    holdShortcut = "\\U2325";
+    menubarIcon = 2;
+    mouseHoverEnabled = true;
+    preferencesVersion = "7.26.0";
+    previousWindowShortcut = "\\U21e7\\U21e5";
+    updatePolicy = 1;
+}
